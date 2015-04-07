@@ -1,6 +1,6 @@
 # adf-widget-linklist
 
-clock widget for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).
+Linklist widget for the [angular-dashboard-framework](https://github.com/sdorra/angular-dashboard-framework).
 
 ## Build
 
