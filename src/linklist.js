@@ -35,7 +35,7 @@ angular.module('adf.widget.linklist', ['adf.provider'])
         templateUrl: '{widgetsPath}/linklist/src/view.html',
         edit: {
           templateUrl: '{widgetsPath}/linklist/src/edit.html',
-          reload: false,
+          reload: true,
           controller: 'linklistEditCtrl'
         }
       });
